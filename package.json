@@ -1,0 +1,20 @@
+{
+  "name": "mobilefirst",
+  "version": "1.0.0",
+  "description": "A mobile first desgin web page",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "server": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilianoagustin/mobileFirst.git"
+  },
+  "author": "Emiliano Pintos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emilianoagustin/mobileFirst/issues"
+  },
+  "homepage": "https://github.com/emilianoagustin/mobileFirst#readme"
+}
